@@ -1,0 +1,8 @@
+{
+  "name": "trans",
+  "version": "1.0.0",
+  "info": "Модуль переводчик",
+  "logo": "",
+  "update_info": "",
+  "requirements": "deep_translator"
+}
