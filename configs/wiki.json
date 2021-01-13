@@ -1,7 +1,7 @@
 {
   "name": "wiki",
   "version": "1.0.0",
-  "info": "Модуль переводчик",
+  "info": "Модуль поиск в вики",
   "logo": "",
   "update_info": "",
   "requirements": "wikipedia"
